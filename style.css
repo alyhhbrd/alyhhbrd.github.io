@@ -1,0 +1,65 @@
+html {
+  font-family: 'Eczar',
+    serif;
+  font-family: 'Inconsolata',
+    monospace;
+  text-align: left;
+  font-size: 13px;
+  margin: 0;
+}
+
+/*h1 {
+  font-family: 'Eczar', 'serif';
+  line-height: .5;
+
+}*/
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: 'Eczar', 'serif';
+  line-height: .5;
+
+}
+
+
+body {
+  font-family: 'Inconsolata', 'monospace';
+  margin: 100px;
+  max-width: 575px;
+  line-height: 1.6;
+  color: #444;
+  padding: 0 10px;
+}
+
+.contactme {
+  background-color: rgba(231, 255, 97, 0.87);
+  color: black;
+  text-shadow: 2px 2px white;
+
+}
+
+img {
+  float: left;
+  margin-right: 15px;
+}
+
+textarea {
+  border: none;
+  resize: none;
+
+}
+
+table {
+  width: 65%;
+  font-size: 12px;
+
+}
+
+.note {
+  width: 300px;
+  height: 100px;
+  padding: 20px;
+  margin: 8px 0;
+}
